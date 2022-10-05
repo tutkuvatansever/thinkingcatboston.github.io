@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="post">
+
+  <h1 class="post-title">{{ page.title-short | escape }}</h1>
+
+  <div class="row group">
+    <div class="col c3">
+      <img class="profile" src="{{ site.url }}/assets/{{ page.picture }}" alt="Profile Picture">
+    </div>
+
+    <div class="col post-content c7">
+      {{ content }}
+    </div>
+  </div>
+
+
+
+</article>

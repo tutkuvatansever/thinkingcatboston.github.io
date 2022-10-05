@@ -1,0 +1,24 @@
+title: Tutku Vatansever
+author: Tutku Vatansever
+description: Introduction & Portfolio
+baseurl: "/"
+url: "https://tutkuvatansever.com"
+lang: en
+timezone: UTC
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+google_analytics: G-NRCRYHHS3S
+markdown: kramdown
+excerpt_separator: "<!-- more -->"
+kramdown:
+  auto_ids: false
+  enable_coderay: false
+  entity_output: as_char
+  footnote_nr: 1
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+github: [metadata]

@@ -1,0 +1,6 @@
+<div class="social">
+    {% for link in site.data.social.main %}
+        <a href="{{ link.url }}" target="_blank"><img class="social-button" src="{{ site.url }}{{ link.img }}" alt="{{ link.alt }}"/></a>
+    {% endfor %}
+</div>
+&copy; {{ site.author }} - <a href="https://github.com/tutkuvatansever/tutkuvatansever.github.io" target="_blank">Source</a> - Powered by <a href="https://pages.github.com/" target="_blank">Github Pages</a>

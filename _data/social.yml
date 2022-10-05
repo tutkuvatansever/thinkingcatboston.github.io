@@ -1,0 +1,10 @@
+main:
+  - alt: "GitHub profile"
+    url: https://github.com/tutkuvatansever
+    img: "/assets/social/github.png"
+  - alt: "LinkedIn profile"
+    url: https://www.linkedin.com/in/tvatansever/
+    img: "/assets/social/linkedin.png"
+  - alt: "Behance profile"
+    url: https://www.behance.net/tutku-vatansever
+    img: "/assets/social/behance.png"

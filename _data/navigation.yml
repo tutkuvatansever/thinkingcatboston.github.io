@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Blog"
+    url: https://thinkingcatboston.com
