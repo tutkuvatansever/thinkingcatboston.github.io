@@ -5,4 +5,4 @@ picture: PixelBuddy.png
 picture_desc: PixelBuddy artwork
 date-range: "June 2022"
 ---
-PixelBuddy is a project in progress. It's a color by number pixel art game that I created with friends. It I came up with the idea for this app and created the artwork and the animations. I've conducted extensive market research, identified customer needs and product objectives and then wrote documentation to support developers. You can view the PDF of the product requirements document that I created in my [PixelBuddy repository](https://thinkingcatboston.com/){:target="_blank"}.
+PixelBuddy is a project in progress. It's a color by number pixel art game that we created with friends. Identifying customer needs and product objectives, I created documentation to support developers. I created the artwork and the animations featured in the app. You can view the PDF of the product requirements document that I wrote in my [PixelBuddy repository](https://github.com/tutkuvatansever/PixelBuddy){:target="_blank"}.
